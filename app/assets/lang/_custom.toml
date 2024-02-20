@@ -17,4 +17,4 @@ supportLink = "https://github.com/dscalZi/HeliosLauncher/issues"
 [ejs.welcome]
 welcomeHeader = "ようこそ！ Usamiランチャーへ！"
 welcomeDescription = "このランチャーでは、自動的に適切なModをインストールしてサーバーに入ることができます。"
-welcomeDescCTA = "宇佐見柊士"
+welcomeDescCTA = "Modified by 宇佐見柊士"
