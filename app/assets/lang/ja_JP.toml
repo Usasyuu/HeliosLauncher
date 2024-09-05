@@ -20,7 +20,7 @@ newsErrorNoneSpan = "No News"
 
 [ejs.login]
 loginCancelText = "キャンセル"
-loginSubheader = "MINECRAFT LOGIN"
+loginSubheader = "MINECRAFT ログイン"
 loginEmailError = "* 無効な値"
 loginEmailPlaceholder = "EMAIL OR USERNAME"
 loginPasswordError = "* 必須"
@@ -166,9 +166,9 @@ noSelection = "サーバーが選択されていません"
 loading = "Loading.."
 
 [js.landing.serverStatus]
-server = "サーバー"
-offline = "オフライン"
-players = "プレイヤー数"
+server = "Server"
+offline = "OFFLINE"
+players = "Players"
 
 [js.landing.systemScan]
 checking = "システム情報をチェックしています..."
